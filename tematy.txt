@@ -1,3 +1,20 @@
-Tutaj prosze wrzucac tematy projektow:
+Tutaj proszę wrzucać tematy projektów (A oraz B).
+Ostateczny termin oddania sprawnego projektu A: do końca roku kalendarzowego 2015 (ostatnie zajęcia w roku)
+Ostateczny termin oddania sprawnego projektu B: do końca semestru (ostatnie zajęcia w semestrze)
+Pojawienie się po raz pierwszy z projektem w najpóźniejszym możliwym terminie nie gwarantuje, że projekt zostanie uznany jako sprawny - ale cóż, nadzieja umiera ostatnia.
+Projekt A to tylko rozgrzewka, demonstracja odmiennego podejścia do programowania sterowanego komunikatami/zdarzeniami w porównaniu do CLI, którym zajmowaliście się w poprzednim semestrze). Aplikacja ma być działającym programem okienkowym, ale bez wodotrysków.
+W projekcie B proszę zadbać przynajmniej o diagram przypadków użycia, a trochę ambitniej - o diagram klas. Ten projekt warto wykonać w C# lub w Javie. Powinna to być aplikacja przygotowana do przyszłej rozbudowy (tzn. zaprojektowania w taki właśnie sposób). Zalecane jest użycie jednego lub kilku mechanizmów omówionych na wykładach (SQL, XML, RSS, HTML, TCP, UDP, komunikacja szeregowa, DLL, programowanie wielowątkowe).
+Pliki źródłowe projektów proszę wrzucić na własne konta GitHub.
 
-1. Adam Sliwinski A:"", B:"" [linkA, linkB]
+1. Adam Śliwiński A:"temat", B:"temat" [linkA, linkB]
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
