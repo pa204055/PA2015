@@ -7,7 +7,7 @@ W projekcie B proszę zadbać przynajmniej o diagram przypadków użycia, a troc
 Pliki źródłowe projektów proszę wrzucić na własne konta GitHub.
 
 1. Adam Śliwiński A:"temat", B:"temat" [linkA, linkB]
-2.
+2. Bartosz Platek A: 'Paint', B:'Przegladarka internetowa'
 3.
 4.
 5.
