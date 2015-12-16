@@ -9,7 +9,7 @@ Pliki źródłowe projektów proszę wrzucić na własne konta GitHub.
 1. Adam Śliwiński A:"Notepad",                  B:"temat" [linkA, linkB]
 2. Bartosz Platek A: 'Paint',                 B:'Przegladarka internetowa'
 3. Miosz Kraska   A: "Interfejs biletomatu",  B:
-4.
+4.Agata Surmiak A: "Symulacja silnika krokowego" B:
 5.
 6.
 7.
