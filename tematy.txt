@@ -6,7 +6,7 @@ Projekt A to tylko rozgrzewka, demonstracja odmiennego podejścia do programowan
 W projekcie B proszę zadbać przynajmniej o diagram przypadków użycia, a trochę ambitniej - o diagram klas. Ten projekt warto wykonać w C# lub w Javie. Powinna to być aplikacja przygotowana do przyszłej rozbudowy (tzn. zaprojektowania w taki właśnie sposób). Zalecane jest użycie jednego lub kilku mechanizmów omówionych na wykładach (SQL, XML, RSS, HTML, TCP, UDP, komunikacja szeregowa, DLL, programowanie wielowątkowe).
 Pliki źródłowe projektów proszę wrzucić na własne konta GitHub.
 
-1. Adam Śliwiński A:"Notepad",                  B:"temat" [linkA, linkB]
+1. Adam Śliwiński A:"Notepad",                  B:"Simple-Web Browser"
 2. Bartosz Platek A: 'Paint',                 B:'Przegladarka internetowa'
 3. Miosz Kraska   A: "Interfejs biletomatu",  B:
 4.Agata Surmiak A: "Symulacja silnika krokowego" B:
